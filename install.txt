@@ -1,3 +1,4 @@
 1. Install nodemon;
+2.npm install --force
 To run project type "npm run dev"
 npm install express mongoose
